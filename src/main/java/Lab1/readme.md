@@ -1,6 +1,10 @@
 # Lab 1
 This is my first lab in COMP3111
 
-Here is the first screanshot:
+Here is the first screenshot:
 
-![](../../../../SCreanshot1.png)
+![](../../../../Screenshot1.png)
+
+Here is second screenshot:
+
+![](../../../../Screenshot2.png)
